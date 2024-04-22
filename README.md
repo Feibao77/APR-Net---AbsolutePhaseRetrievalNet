@@ -25,9 +25,13 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
 ## Dataset
 We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_T3IouuziJPH/view?usp=drive_link) from scratch.
 
+<div align="center">
+ 
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/602e0f37-8091-4768-bf02-9599853a488a)
 
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/c85f6efa-b4cf-4818-83ca-a0d049d11bfd)
+
+</div>
 
 **Fig. 2.** Datasets. (a) Flowchart of ground-truth generation (16-step PSP with tri-frequency TPU). (b) Several sets of samples.
 
