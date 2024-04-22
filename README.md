@@ -37,13 +37,11 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 
 
-<div align="center">
  
 **Table 1. Comparison of five methods**
 
 <img width="585" alt="e6e371d6e07fc58b0290024f5b4cc48" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/a457caa0-f7e7-4caf-a46a-3b4798658148">
 
-</div>
 
 ### Quantitative evaluation
 
@@ -53,9 +51,11 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 **Fig. 3** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
 
+</div>
+
 
 **Table 2.** Measurement values of a pair of standard spheres by DFCP
 
 <img width="574" alt="image" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/e52cc922-fb16-467f-a6ba-524fed5bbe89">
 
-</div>
+
