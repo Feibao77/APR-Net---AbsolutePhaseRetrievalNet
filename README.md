@@ -1,4 +1,4 @@
-# APR-Net---AbsolutePhaseRetrieval-Net
+# APR-Net: Deep learning-based frequency-multiplexing composite-fringe projection profilometry technique for one-shot 3D shape measurement
 If you need more information, see our [paper]().
 
 ## 1. Introduction
