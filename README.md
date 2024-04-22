@@ -3,7 +3,7 @@
  
 **Yifei Chen, Jiehu Kang, Luyuan Feng, Leiwen Yuan, Jian Liang, Zongyang Zhao, Bin Wu**
 
-**the State Key Laboratory of Precision Measurement Technology and Instruments, Tianjin University, China**
+**State Key Laboratory of Precision Measurement Technology and Instruments, Tianjin University, China**
 </div>
 
 This is our [official published article]().
