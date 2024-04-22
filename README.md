@@ -43,11 +43,17 @@ After 400-epoch training that took 37 hours, bith training and validation loss c
 
 
 ### Qualitative evaluation
-Based on the calibration parameters of the fringe projection profilometry system, phase-to-height mapping was conducted to achieve 3D reconstruction. The 3D reconstruction results of DFCP were compared with those of the other four distinct methods, as shown in Fig. 5. The first row presents the 3D results by conventional tri-frequency Fourier Transform method, where the three fringe frequencies employed are identical to those in the composite pattern designed by us. The second row shows the 3D outcomes derived from the single-shot learning-based method proposed by Nguyen et. al [1](https://www.sciencedirect.com/science/article/pii/S0263224121015281). In the third method, the designed APR-Net was substituted with U-Net while maintaining all other conditions unchanged. This U-Net was trained on the same dataset as APR-Net, and the predictions from this trained U-Net were used for 3D reconstruction, as shown in the third row of Fig. 5. The fourth and last rows illustrate the 3D measurement results obtained by our method and the ground-truth generation method (16-step PSP with tri-frequency TPU), respectively. Furthermore, to assess phase quality quantitively, we took ground truths as benchmarks to calculate absolute phase error maps of the other four approaches, as shown in Fig. 6. 
+Based on the calibration parameters of the fringe projection profilometry system, phase-to-height mapping was conducted to achieve 3D reconstruction. The 3D reconstruction results of DFCP were compared with those of the other four distinct methods, as shown in Fig. 5. The first row presents the 3D results by conventional tri-frequency Fourier Transform (FT) method, where the three fringe frequencies employed are identical to those in the composite pattern designed by us. The second row shows the 3D outcomes derived from the single-shot learning-based method proposed by [Nguyen et. al](https://www.sciencedirect.com/science/article/pii/S0263224121015281). In the third method, the designed APR-Net was substituted with U-Net while maintaining all other conditions unchanged. This U-Net was trained on the same dataset as APR-Net, and the predictions from this trained U-Net were used for 3D reconstruction, as shown in the third row of Fig. 5. The fourth and last rows illustrate the 3D measurement results obtained by our method and the ground-truth generation method (16-step PSP with tri-frequency TPU), respectively. Furthermore, to assess phase quality quantitively, we took ground truths as benchmarks to calculate absolute phase error maps of the other four approaches, as shown in Fig. 6. 
 
-<img src="[https://github.com/Chen-Yi-Ran/OnlineStudy/blob/master/file/course.jpg](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/2ba2cb0c-4860-4f7a-ab53-1350b183bb10)" width="210px">
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/d83ead7b-6160-49fc-9b20-c6525d8821cd)
 
-**Fig. 5.** 
+**Fig. 5.** Comparison between the 3D reconstruction results measured by five methods. (a, b, c) The 3D results by conventional tri-frequency FT method. (d, e, f) The 3D results by Nguyen's method. (g, h, i) The 3D results by U-Net-based method. (j, k, l) The 3D results by our method. (m, n, o) The 3D results by ground-truth generation method (16-step PSP with tri-frequency TPU). 
+
+
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/22245228-45ff-4178-9246-eda45c552f21)
+
+**Fig. 6.** Absolute phase error maps by four methods. (a, b, c) The absolute phase error maps by conventional tri-frequency FT method. (d, e, f) The absolute phase error maps by Nguyen’s method. (g, h, i) The absolute phase error maps by U-Net-based method. (j, k, l) The absolute phase error maps by our method. 
+
 
 
 
