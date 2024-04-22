@@ -1,4 +1,4 @@
-# APR-Net---AbsolutePhaseRetrievalNet
+# APR-Net---AbsolutePhaseRetrieval-Net
 If you need more information, see our [paper]().
 
 ## Introduction
