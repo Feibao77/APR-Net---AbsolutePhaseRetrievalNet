@@ -33,7 +33,7 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 </div>
 
-**Fig. 2.** Datasets. (a) Flowchart of ground-truth generation (16-step PSP with tri-frequency TPU). (b) Several sets of samples.
+**Fig. 2.** Dataset. (a) Flowchart of ground-truth generation (16-step PSP with tri-frequency TPU). (b) Several sets of samples.
 
 ## Experiments and results
 ### Qualitative evaluation
