@@ -24,6 +24,7 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
 
 ## Dataset
 We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_T3IouuziJPH/view?usp=drive_link) from scratch.
+Or you could see [it](https://github.com/Feibao77/APR-Net---Dataset) on this github account.
 
 ## Experiments and results
 ### Qualitative evaluation
