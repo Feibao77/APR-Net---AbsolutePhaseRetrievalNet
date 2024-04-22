@@ -64,6 +64,7 @@ To assess the accuracy of our method quantitatively, a pair of standard spheres 
 
 
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/bede39ad-4d45-4404-bae0-7b9cc5d91b35)
+
 **Fig. 8.** Measurement results of a pair of standard spheres by our method. (a) 3D results. (b) 3D error distribution.
 
 
