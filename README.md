@@ -30,12 +30,15 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
  
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/d83ead7b-6160-49fc-9b20-c6525d8821cd)
 
+</div>
+
 **Fig. 2.** Comparison between the 3D reconstruction results measured by five methods. (a, b, c) The 3D results by conventional tri-frequency Fourier Transform method. (d, e, f) The 3D results by [Nguyen's](https://www.sciencedirect.com/science/article/pii/S0263224121015281) method. (g, h, i) The 3D results by U-Net-based method. (j, k, l) The 3D results by our method. (m, n, o) The 3D results by ground-truth generation method (16-step PSP with tri-frequency TPU). 
 
-</div>
+
 
 
 <div align="center">
+ 
 **Table 1. Comparison of five methods**
 
 <img width="585" alt="e6e371d6e07fc58b0290024f5b4cc48" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/a457caa0-f7e7-4caf-a46a-3b4798658148">
