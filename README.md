@@ -25,6 +25,11 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
 ## Dataset
 We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_T3IouuziJPH/view?usp=drive_link) from scratch.
 
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/602e0f37-8091-4768-bf02-9599853a488a)
+
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/c85f6efa-b4cf-4818-83ca-a0d049d11bfd)
+
+**Fig. 2.** Datasets. (a) Flowchart of ground-truth generation (16-step PSP with tri-frequency TPU). (b) Several sets of samples.
 
 ## Experiments and results
 ### Qualitative evaluation
@@ -35,7 +40,7 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 </div>
 
-**Fig. 2.** Comparison between the 3D reconstruction results measured by five methods. (a, b, c) The 3D results by conventional tri-frequency Fourier Transform method. (d, e, f) The 3D results by [Nguyen's](https://www.sciencedirect.com/science/article/pii/S0263224121015281) method. (g, h, i) The 3D results by U-Net-based method. (j, k, l) The 3D results by our method. (m, n, o) The 3D results by ground-truth generation method (16-step PSP with tri-frequency TPU). 
+**Fig. 3.** Comparison between the 3D reconstruction results measured by five methods. (a, b, c) The 3D results by conventional tri-frequency Fourier Transform method. (d, e, f) The 3D results by [Nguyen's](https://www.sciencedirect.com/science/article/pii/S0263224121015281) method. (g, h, i) The 3D results by U-Net-based method. (j, k, l) The 3D results by our method. (m, n, o) The 3D results by ground-truth generation method (16-step PSP with tri-frequency TPU). 
 
 
  
@@ -52,7 +57,7 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 </div>
 
-**Fig. 3** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
+**Fig. 4** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
 
 
 
