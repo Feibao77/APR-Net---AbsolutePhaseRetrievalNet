@@ -37,6 +37,7 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
  
 **Table 1. Comparison of five methods**
+
 <img width="585" alt="e6e371d6e07fc58b0290024f5b4cc48" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/a457caa0-f7e7-4caf-a46a-3b4798658148">
 
 
