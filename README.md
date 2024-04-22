@@ -37,6 +37,10 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 
 
 
+
+
+
+
  
 **Table 1. Comparison of five methods**
 
@@ -52,6 +56,10 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
 **Fig. 3** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
 
 </div>
+
+
+
+
 
 
 **Table 2.** Measurement values of a pair of standard spheres by DFCP
