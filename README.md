@@ -1,7 +1,7 @@
 # APR-Net---AbsolutePhaseRetrievalNet
 If you need more information, see our [paper]().
 
-## Brief Introduction
+## Introduction
 APR-Net enables pixel-wise prediction of the absolute phase map from a single deformed frequency-multiplexing composite image. A nested strategy leveraging Residual U-block (RSU) and the concept of centralized information interaction (CII) are employed.
 
 ## Architecture of APR-Net
