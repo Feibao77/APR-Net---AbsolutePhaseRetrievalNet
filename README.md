@@ -55,5 +55,15 @@ Based on the calibration parameters of the fringe projection profilometry system
 **Fig. 6.** Absolute phase error maps by four methods. (a, b, c) The absolute phase error maps by conventional tri-frequency FT method. (d, e, f) The absolute phase error maps by Nguyen’s method. (g, h, i) The absolute phase error maps by U-Net-based method. (j, k, l) The absolute phase error maps by our method. 
 
 
+### Quantitative evaluation
+To assess the accuracy of our method quantitatively, a pair of standard spheres (Fig. 7) with calibrated diameters dA =31.7505mm, dB = 31.7391mm, and centroid distance sAB = 60.0130mm, was measured by our method. The measured values are 31.6725 mm, 31.8117 mm, and 59.9575 mm, with corresponding mean absolute error values of 0.0780 mm, 0.0726 mm, and 0.0555 mm, respectively. The resulting 3D geometric shape and the 3D shape error distribution are shown in Fig. 8. This quantitative assessment provides a convincing proof for that our method can achieve high-precision 3D shape measurement.
+
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/3ccaf945-226f-4600-a7ea-adb8706e476b)
+
+**Fig. 7.** A pair of standard spheres.
+
+
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/bede39ad-4d45-4404-bae0-7b9cc5d91b35)
+**Fig. 8.** Measurement results of a pair of standard spheres by our method. (a) 3D results. (b) 3D error distribution.
 
 
