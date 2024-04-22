@@ -2,10 +2,13 @@
 <div align="center">
  
 **Yifei Chen, Jiehu Kang, Luyuan Feng, Leiwen Yuan, Jian Liang, Zongyang Zhao, Bin Wu**
+
 **the State Key Laboratory of Precision Measurement Technology and Instruments, Tianjin University, China**
-This is our [official published article]().
+
  
 </div>
+
+This is our [official published article]().
 
 ## Abstract
 The pursuit of precise and efficient 3D shape measurement has long been a focal point within the fringe projection profilometry (FPP) domain. However, achieving precise 3D reconstruction for isolated objects from a single fringe image remains a challenging task in the field. In this paper, a deep learning-based frequency-multiplexing (FM) composite-fringe projection profilometry (DFCP) is proposed, where an end-to-end absolute phase retrieval network (APR-Net) is trained to directly recover the absolute phase map from a FM composite fringe pattern. The obtained absolute phase map exhibits exceptional precision and is devoid of spectrum crosstalk or leakage disturbance typically encountered in traditional FM techniques. APR-Net is intricately crafted, incorporating a nested strategy along with the concept of centralized information interaction. A diverse dataset encompassing various scenarios and free from spectrum aliasing is assembled to guide the training process. In the first qualitative experiment, DFCP demonstrates comparable phase accuracy to ground truths with 47 fewer projected images. The second qualitative experiment and the quantitative evaluation respectively prove DFCP’s capability in high dynamic range 3D measurement and in precise 3D measurement.
