@@ -16,9 +16,11 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
  
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/59141cb3-2b73-4161-a73c-8692bc1e3d5c)
 
+</div>
+
 **Fig.1.** Schematic of APR-Net.
 
-</div>
+
 
 ## Dataset
 We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_T3IouuziJPH/view?usp=drive_link) from scratch.
@@ -47,9 +49,11 @@ We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_
  
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/95018939-df1c-4815-85c3-36dd41ccff31)
 
+</div>
+
 **Fig. 3** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
 
-</div>
+
 
 
 
