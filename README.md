@@ -24,8 +24,25 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
 We have built a [dataset](https://drive.google.com/file/d/1G_cBiRRJErjvl2iE-Ga8_T3IouuziJPH/view?usp=drive_link) from scratch.
 
 ## Experiments and results
+### Qualitative evaluation
 
 ![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/d83ead7b-6160-49fc-9b20-c6525d8821cd)
 
 **Fig. 2.** Comparison between the 3D reconstruction results measured by five methods. (a, b, c) The 3D results by conventional tri-frequency Fourier Transform method. (d, e, f) The 3D results by [Nguyen's](https://www.sciencedirect.com/science/article/pii/S0263224121015281) method. (g, h, i) The 3D results by U-Net-based method. (j, k, l) The 3D results by our method. (m, n, o) The 3D results by ground-truth generation method (16-step PSP with tri-frequency TPU). 
+
+
+**Table 1. Comparison of five methods**
+
+<img width="585" alt="e6e371d6e07fc58b0290024f5b4cc48" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/a457caa0-f7e7-4caf-a46a-3b4798658148">
+
+### Quantitative evaluation
+
+![image](https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/95018939-df1c-4815-85c3-36dd41ccff31)
+
+**Fig. 3** Measurement results of a pair of standard spheres by DFCP. (a) 3D results. (b) 3D error distribution.
+
+**Table 2.** Measurement values of a pair of standard spheres by DFCP
+
+<img width="574" alt="image" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/e52cc922-fb16-467f-a6ba-524fed5bbe89">
+
 
