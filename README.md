@@ -1,7 +1,7 @@
 # APR-Net: Deep learning-based frequency-multiplexing composite-fringe projection profilometry technique for one-shot 3D shape measurement
 <div align="center">
  
-**Yifei Chen, Jiehu Kang<sup>*</sup>, Luyuan Feng, Leiwen Yuan, Jian Liang, Zongyang Zhao, Bin Wu<sup>*</sup>**
+**Yifei Chen, Jiehu Kang<sup>*</sup>, Luyuan Feng, Leiwen Yuan, Jian Liang, Zongyang Zhao, Bin Wu**
  
 </div>
 If you need more information, see our [paper]().
