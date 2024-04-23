@@ -23,7 +23,9 @@ The pursuit of precise and efficient 3D shape measurement has long been a focal 
 
 
 ## Dataset
-We have built a [dataset](https://drive.google.com/file/d/1FPXVvhIQrH3uUldxcCWBrBJbryDF0NC1/view?usp=sharing) from scratch. We have uploaded only 500 training set samples and 53 validation set samples. If you need the complete dataset, please contact us.
+We have built a [dataset](https://drive.google.com/file/d/1FPXVvhIQrH3uUldxcCWBrBJbryDF0NC1/view?usp=sharing) from scratch. 
+
+We have uploaded only 500 training set samples and 53 validation set samples. If you need the complete dataset, please contact us.
 
 <div align="center">
  
