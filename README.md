@@ -6,7 +6,7 @@
 **State Key Laboratory of Precision Measurement Technology and Instruments, Tianjin University, China**
 </div>
 
-This is our [official published article]().
+This is our [official published article](https://www.sciencedirect.com/science/article/pii/S0263224124005256?via%3Dihub).
 
 ## Abstract
 The pursuit of precise and efficient 3D shape measurement has long been a focal point within the fringe projection profilometry (FPP) domain. However, achieving precise 3D reconstruction for isolated objects from a single fringe image remains a challenging task in the field. In this paper, a deep learning-based frequency-multiplexing (FM) composite-fringe projection profilometry (DFCP) is proposed, where an end-to-end absolute phase retrieval network (APR-Net) is trained to directly recover the absolute phase map from a FM composite fringe pattern. The obtained absolute phase map exhibits exceptional precision and is devoid of spectrum crosstalk or leakage disturbance typically encountered in traditional FM techniques. APR-Net is intricately crafted, incorporating a nested strategy along with the concept of centralized information interaction. A diverse dataset encompassing various scenarios and free from spectrum aliasing is assembled to guide the training process. In the first qualitative experiment, DFCP demonstrates comparable phase accuracy to ground truths with 47 fewer projected images. The second qualitative experiment and the quantitative evaluation respectively prove DFCP’s capability in high dynamic range 3D measurement and in precise 3D measurement.
@@ -75,4 +75,19 @@ We have uploaded only 500 training set samples and 53 validation set samples. If
 **Table 2.** Measurement values of a pair of standard spheres by DFCP
 <img width="574" alt="image" src="https://github.com/Feibao77/APR-Net---AbsolutePhaseRetrievalNet/assets/117697608/e52cc922-fb16-467f-a6ba-524fed5bbe89">
 
+
+
+## Citation
+If you find this code or dataset useful for your research, please use the following BibTeX entry.
+
+<div style="overflow-x: auto; white-space: nowrap; background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
+     
+     @article{APR-Net,
+        title={Deep learning-based frequency-multiplexing composite-fringe projection profilometry technique for one-shot 3D shape measurement},
+        author={Yifei Chen, Jiehu Kang, Luyuan Feng, Leiwen Yuan, Jian Liang, Zongyang Zhao, Bin Wu},
+        journal={Measurement},
+        year={2024}
+             }
+
+</div>
 
